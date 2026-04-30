@@ -12,6 +12,9 @@ pillow = "*"
 black = "*"
 isort = "*"
 djlint = "*"
+pytest = "*"
+pytest-django = "*"
+factory-boy = "*"
 
 [requires]
 python_version = "3.12"
